@@ -1,15 +1,24 @@
-package main.java.lambda15.page450;
+package lambda15.page450;
 
+/**
+ * Функциональный интерфейс.
+ */
 interface NumericArrayInterface {
     double func(double[] n) throws EmptyArrayException;
 }
 
+/**
+ * Собственное исключение.
+ */
 class EmptyArrayException extends Exception {
     EmptyArrayException(String error) {
         super(error);
     }
 }
 
+/**
+ * Класс показывает работу исключений в лямбда выражениях.
+ */
 public class LambdaExceptionShow {
     private double[] doubleArray;
 

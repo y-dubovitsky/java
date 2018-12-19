@@ -1,4 +1,4 @@
-package main.java.lambda15.page449;
+package lambda15.page449;
 
 interface FuncInt {
     String func(String a);

@@ -1,4 +1,4 @@
-package main.java.lambda15.page448;
+package lambda15.page448;
 
 import java.util.Date;
 

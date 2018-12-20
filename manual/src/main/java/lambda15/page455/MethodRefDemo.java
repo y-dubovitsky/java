@@ -1,4 +1,4 @@
-package main.java.lambda15.page455;
+package lambda15.page455;
 
 interface StringFunc {
     String func(String s);

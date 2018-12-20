@@ -1,4 +1,4 @@
-package main.java.lambda15.page456;
+package lambda15.page456;
 
 interface MyFunc<T> {
     boolean func(T v1, T v2);
@@ -34,5 +34,7 @@ public class InstanceMethDemo {
         HighTemp[] weekDayHighs = { new HighTemp(56), new HighTemp(123), new HighTemp(53)};
         count = counter(weekDayHighs, HighTemp::lessThanTemp, new HighTemp(123));
         System.out.println("Дней когда макс температура была меньше 123 - " + count);
+        count = counter(weekDayHighs, HighTemp::sameTemp, new HighTemp(56));
+        System.out.println("Дней когда макс температура была меньше 56 - " + count);
     }
 }

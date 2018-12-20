@@ -1,4 +1,4 @@
-package main.java.lambda15.page461;
+package lambda15.page461;
 
 interface MyInterface {
     MyDoubleClass func(int i);

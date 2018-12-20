@@ -1,4 +1,4 @@
-package main.java.lambda15.page459;
+package lambda15.page459;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -16,6 +16,9 @@ class MyClass {
 }
 
 public class UseMethodRef {
+    /**
+     * Совместимый компаратор.
+     */
     static int compareMC(MyClass a, MyClass b) {
         return a.getVal() - b.getVal();
     }

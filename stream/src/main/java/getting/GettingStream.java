@@ -2,6 +2,7 @@ package getting;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -63,6 +64,20 @@ public class GettingStream {
         }
     }
 
+    /**
+     * Получаем простой стрим из листа.
+     */
+    public void getStream() {
+        List<String> list = Arrays.asList("1", "2", "hello"); // Почему тут List?
+        ArrayList<String> arrayList = new ArrayList<>();
+        for (int i = 0; i < 10 ; i++) {
+            arrayList.add("a");
+        }
+        Stream<String> stream = list.stream();
+        stream.filter((n) -> n.length() > 2)
+                .forEach(System.out::print);
+    }
+
     public static void main(String[] args) {
         GettingStream gettingStream = new GettingStream();
         // Запускаем gettingStream
@@ -71,5 +86,7 @@ public class GettingStream {
         gettingStream.streamFromElements();
         // Запускаем streamException
         gettingStream.streamException();
+        //
+        gettingStream.getStream();
     }
 }

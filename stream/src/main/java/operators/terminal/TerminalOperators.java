@@ -1,10 +1,7 @@
 package operators.terminal;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Optional;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
+import java.util.*;
+import java.util.stream.*;
 
 /**
  * В данном файле показано применение Терминальных операторов
@@ -178,6 +175,71 @@ public class TerminalOperators {
     }
 
     /**
+     * Возвращает первый попавшийся элемент стрима.
+     * В параллельных стримах это может быть действительно любой элемент,
+     * который лежал в разбитой части последовательности.
+     */
+    public void findAny() {
+        int[] array = new int[1000];
+        for (int i = array.length - 1; i > 0; i--) {
+            array[i] = i;
+        }
+        int any = Arrays.<Integer>stream(array)
+                .parallel()
+                .findAny().getAsInt();
+        int anyParallel = IntStream.range(4, 65536)
+                .parallel()
+                .findAny()
+                .getAsInt();
+        // anyParallel: 32770
+        System.out.println("Любой элемент = " + any + " и еще любой " + anyParallel);
+    }
+
+    /**
+     * boolean allMatch​(Predicate predicate)
+     Возвращает true, если все элементы стрима удовлетворяют условию predicate.
+     Если встречается какой-либо элемент, для которого результат вызова функции-предиката будет false,
+     то оператор перестаёт просматривать элементы и возвращает false.
+     */
+    public void allMatch() {
+        boolean result = false;
+        result = Stream.of(1,2,3,4,5,-1)
+                .allMatch((x) -> x > 3);
+        System.out.println("Элементы в стриме удовлетворяют условию? " + result);
+    }
+
+    /**
+     * Только для примитивных стримов. Возвращает среднее арифметическое всех элементов.
+     * Либо Optional.empty, если стрим пуст.
+     * @return
+     */
+    public double average() {
+        return IntStream.of(1,2,3,4,5)
+                .average()
+                .getAsDouble();
+    }
+
+    /**
+     * Метод позволяет собрать статистику о числовой последовательности стрима,
+     * а именно:
+     * количество элементов, их сумму, среднее арифметическое, минимальный и максимальный элемент.
+     */
+    public void statistics() {
+        LongSummaryStatistics stats = LongStream.range(2, 16)
+                .summaryStatistics();
+        System.out.format("  count: %d%n", stats.getCount());
+        System.out.format("    sum: %d%n", stats.getSum());
+        System.out.format("average: %.1f%n", stats.getAverage());
+        System.out.format("    min: %d%n", stats.getMin());
+        System.out.format("    max: %d%n", stats.getMax());
+        //   count: 14
+        //     sum: 119
+        // average: 8,5
+        //     min: 2
+        //     max: 15
+    }
+
+    /**
      * Главный метод
      * @param args
      */
@@ -201,5 +263,11 @@ public class TerminalOperators {
         terminalOperators.optionalReduce();
         // min & max
         terminalOperators.minAndMax();
+        //
+        terminalOperators.findAny();
+        // allMatch
+        terminalOperators.allMatch();
+        // average
+        System.out.println("Среднее арифметическое = " + terminalOperators.average());
     }
 }

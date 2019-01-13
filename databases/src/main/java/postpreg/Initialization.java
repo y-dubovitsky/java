@@ -14,6 +14,6 @@ public class Initialization {
         Postpreg postpreg = new Postpreg();
         postpreg.setConnection();
         //postpreg.doQueru("SELECT * FROM users");
-        postpreg.showAllFields();
+        //postpreg.showAllFields();
     }
 }

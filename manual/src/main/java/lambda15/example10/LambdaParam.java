@@ -1,7 +1,5 @@
 package lambda15.example10;
 
-import sun.text.normalizer.UCharacter;
-
 /**
  * Функциональный интерфес
  * @param <T>

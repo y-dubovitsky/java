@@ -20,7 +20,7 @@ public class Postpreg {
     private String table = "users";
     private String url = "jdbc:postgresql://localhost:5432/postgres";
     private String name = "postgres";
-    private String password = "postgres";
+    private String password = "root";
     /**
      * Переменная, отвчающая за запросы к БД.
      */

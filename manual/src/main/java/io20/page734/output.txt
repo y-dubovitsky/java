@@ -1,0 +1,3586 @@
+public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}public class Foo {
+    public static void main(String[] args) {
+        new Thread(Foo::foo).start();
+        new Thread(() -> bar()).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                baz();
+            }
+        }).start();
+    }
+
+    static void foo() { /* долгая задача 1 */ }
+    static void bar() { /* долгая задача 2 */ }
+    static void baz() { /* долгая задача 3 */ }
+}

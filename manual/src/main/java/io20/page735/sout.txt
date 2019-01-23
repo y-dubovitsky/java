@@ -1,0 +1,4 @@
+    public    public static void main(String[] args) {
+        ByteArrayInputStreamShow b = new ByteArrayInputStreamShow();
+        b.read();
+    }

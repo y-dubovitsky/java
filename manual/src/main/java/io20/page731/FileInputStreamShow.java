@@ -29,9 +29,20 @@ public class FileInputStreamShow {
                 System.err.println("Нельзя прочитать " + n + " байтов");
             }
             sout("Количество доступных байтов = " + (f.available()));
-            for (int i = 0; i < b.length; i++) {
+            for (int i = 0; i < b.length; i++) { // выводит массив
                 System.out.print((char)b[i]);
             }
+            if (f.read(b, n/2, n/2) != n/2) {
+                System.err.println("Нельзя прочитать " + n/2 + " байт");
+            }
+            String str = new String(b, 0, b.length);
+            sout("Вау, это новая строка - " + str);
+            char[] array = new char[100];
+            for (int i = 0; i < 100; i++) {
+                array[i] = new Character('1');
+            }
+            String newStr = new String(array, 0, 5);
+            System.out.println(newStr);
 
         } catch (IOException e) {
             e.printStackTrace();

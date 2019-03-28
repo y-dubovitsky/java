@@ -1,4 +1,4 @@
-package regex30.page1098;
+package regex30.reg.page1098;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -15,7 +15,7 @@ public class SymbolClass {
         String seqSymbol = "[qwe]+.*";
 
         Pattern pattern = Pattern.compile(seqSymbol);
-        Matcher matcher = pattern.matcher("package regex30.page1098;\n" +
+        Matcher matcher = pattern.matcher("package regex30.reg.page1098;\n" +
                 "\n" +
                 "import java.util.regex.Matcher;\n" +
                 "import java.util.regex.Pattern;\n" +

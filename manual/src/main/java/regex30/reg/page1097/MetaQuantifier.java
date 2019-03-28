@@ -1,4 +1,4 @@
-package regex30.page1097;
+package regex30.reg.page1097;
 
 import java.io.File;
 import java.io.FileReader;

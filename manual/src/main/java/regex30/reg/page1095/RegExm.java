@@ -1,4 +1,4 @@
-package regex30.page1095;
+package regex30.reg.page1095;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

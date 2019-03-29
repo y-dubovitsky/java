@@ -1,0 +1,10 @@
+Information:java: Errors occurred while compiling module 'other'
+Information:javac 11.0.1 was used to compile java sources
+Information:29.03.2019 14:37 - Compilation completed with 2 errors and 0 warnings in 6 s 92 ms
+C:\Users\user\IdeaProjects\java\other\src\main\java\loader\DynamicClassLoader.java
+Error:(14, 40) java: cannot find symbol
+  symbol:   method getName()
+  location: variable classLoader1 of type java.lang.ClassLoader
+Error:(16, 39) java: cannot find symbol
+  symbol:   method getName()
+  location: variable classLoader of type java.lang.ClassLoader

@@ -1,4 +1,4 @@
-package reflection;
+package reflection.load;
 
 import java.io.IOException;
 import java.io.InputStream;

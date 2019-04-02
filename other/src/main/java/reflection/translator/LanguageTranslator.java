@@ -34,5 +34,10 @@ public class LanguageTranslator {
     public static void main(String[] args) {
         LanguageTranslator languageTranslator = new LanguageTranslator();
         System.out.println(languageTranslator.universalTranslate());
+
+        // Which name classLoader?
+        Class clazz = languageTranslator.getClass();
+        ClassLoader classLoader = clazz.getClassLoader();
+        System.out.println(classLoader);
     }
 }

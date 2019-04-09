@@ -6,8 +6,14 @@ import java.net.Socket;
 
 /**
  * The client class
- * //TODO Добавить больше модульности, сформировать нормальный API
  */
+// FIXME Добавить больше модульности, сформировать нормальный API
+    //TODO
+    // Добавить многопоточность
+    // https://javarush.ru/groups/posts/654-klassih-socket-i-serversocket-ili-allo-server-tih-menja-slihshishjh
+    // http://www.quizful.net/post/java-socket-programming
+    // http://www.javaportal.ru/java/articles/java_http_web/article02.html
+
 public class Client {
 
     InetAddress inetAddress;
@@ -76,9 +82,13 @@ public class Client {
     }
 
     public static void main(String[] args) throws Exception {
+        //TODO Это неправильно! исправить
         Client client = new Client(InetAddress.getLocalHost(), 4004);
         client.createSocket();
         client.sendMsg();
-        //client.allIn();
+        // One more client start
+        Client client1 = new Client(InetAddress.getLocalHost(), 4004);
+        client1.createSocket();
+        client1.sendMsg();
     }
 }

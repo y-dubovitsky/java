@@ -13,6 +13,6 @@ public class StartChat {
         Thread.sleep(5000);
         Client client = new Client(InetAddress.getLocalHost(), 4004);
         client.createSocket();
-        client.out();
+        client.sendMsg();
     }
 }

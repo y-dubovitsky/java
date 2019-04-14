@@ -8,11 +8,11 @@ import java.net.Socket;
  * The client class
  */
 // FIXME Добавить больше модульности, сформировать нормальный API
-    //TODO
-    // Добавить многопоточность
-    // https://javarush.ru/groups/posts/654-klassih-socket-i-serversocket-ili-allo-server-tih-menja-slihshishjh
-    // http://www.quizful.net/post/java-socket-programming
-    // http://www.javaportal.ru/java/articles/java_http_web/article02.html
+//TODO
+// Добавить многопоточность
+// https://javarush.ru/groups/posts/654-klassih-socket-i-serversocket-ili-allo-server-tih-menja-slihshishjh
+// http://www.quizful.net/post/java-socket-programming
+// http://www.javaportal.ru/java/articles/java_http_web/article02.html
 
 public class Client {
 
@@ -33,7 +33,7 @@ public class Client {
     public void createSocket() {
         try{
             Socket socket = new Socket(this.inetAddress, this.port);
-                    System.out.println("Connecting...");
+            System.out.println("Connecting...");
             if (socket != null) {
                 this.socket = socket;
                 return;

@@ -1,4 +1,4 @@
-package GUI.animation;
+package GUI.handler.inner;
 
 import javax.swing.*;
 import java.awt.*;

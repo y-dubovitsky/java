@@ -1,6 +1,4 @@
-package GUI.animation;
-
-import javax.swing.*;
+package GUI.handler.inner;
 
 //TODO NOT WORK
 class TextJComponentHandlerTest {

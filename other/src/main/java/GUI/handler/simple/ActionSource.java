@@ -1,4 +1,4 @@
-package GUI.handler;
+package GUI.handler.simple;
 
 import javax.swing.*;
 import java.awt.event.ActionListener;

@@ -1,7 +1,6 @@
-package GUI.animation;
+package GUI.handler.inner;
 
 import javax.swing.*;
-import javax.swing.plaf.BorderUIResource;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

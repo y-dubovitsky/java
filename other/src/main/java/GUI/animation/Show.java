@@ -1,7 +1,10 @@
 package GUI.animation;
 
 import javax.swing.*;
+import javax.swing.plaf.BorderUIResource;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 /**
  * Main class;
@@ -12,6 +15,8 @@ public class Show {
      * Frame
      */
     private JFrame jFrame;
+    private JLabel jLable;
+    private Circle circle;
 
     /**
      * Frame size
@@ -42,11 +47,20 @@ public class Show {
         this.y = y;
     }
 
-    /**
-     * Add java.awt.Component on Frame;
-     */
-    public void addOnFrame(String str, JComponent jComponent) {
-        jFrame.getContentPane().add(str, jComponent);
+    public void go() {
+        JButton lableButton = new JButton("Change label");
+        lableButton.addActionListener(new LabelListener());
+
+        JButton colorButton = new JButton("Change Circle");
+        colorButton.addActionListener(new ColorListener());
+
+        jLable = new JLabel("Label");
+        circle = new Circle(50,50);
+
+        jFrame.getContentPane().add(BorderLayout.EAST, lableButton);
+        jFrame.getContentPane().add(BorderLayout.NORTH, colorButton);
+        jFrame.getContentPane().add(BorderLayout.WEST, jLable);
+        jFrame.getContentPane().add(BorderLayout.CENTER, circle);
     }
 
     /**
@@ -55,17 +69,29 @@ public class Show {
      */
     public static void main(String[] args) {
         Show show = new Show();
-        Circle circle = new Circle(50,50);
-        Label label = new Label();
+        show.go();
+    }
 
-        //TODO Do BorderLayout.CENTER more flexible
-        show.addOnFrame(BorderLayout.CENTER, circle);
-        show.addOnFrame(BorderLayout.EAST, label.getJLabel());
-        show.addOnFrame(BorderLayout.NORTH,
-                new Button(
-                        new CircleHandler(circle)).getjButton());
-        show.addOnFrame(BorderLayout.SOUTH,
-                new Button(
-                        new CircleHandler(label)).getjButton());
+    class LabelListener implements ActionListener {
+
+        @Override
+        public void actionPerformed(ActionEvent e) {
+            jLable.setText(new Utils().getText());
+        }
+    }
+
+    class ColorListener implements ActionListener {
+
+        @Override
+        public void actionPerformed(ActionEvent e) {
+            // Visible - invisible
+            if (circle.isVisible()) {
+                circle.setVisible(false);
+            } else {
+                circle.setVisible(true);
+            }
+            // repaint
+            circle.repaint();
+        }
     }
 }

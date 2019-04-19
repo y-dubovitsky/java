@@ -1,5 +1,7 @@
 package GUI.animation;
 
+import jdk.jshell.execution.Util;
+
 import java.io.File;
 import java.io.IOException;
 import java.io.RandomAccessFile;
@@ -9,12 +11,19 @@ import java.io.RandomAccessFile;
  */
 public class Utils {
 
+    String path = "/text.txt";
+
+    public Utils() {}
+
+    public Utils(String path) {
+        this.path = path;
+    }
+
     /**
      * Getting random text from file
-     * @param path - path to file
      * @return - random string
      */
-    public String getText(String path) {
+    public String getText() {
         String result = "";
         try {
             // get file

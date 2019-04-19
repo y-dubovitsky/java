@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * Circle class
+ * StartMoving class
  */
 public class Circle extends JComponent {
 
@@ -22,7 +22,7 @@ public class Circle extends JComponent {
     }
 
     /**
-     * Draw Circle
+     * Draw StartMoving
      * @param g
      */
     @Override

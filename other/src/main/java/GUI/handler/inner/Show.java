@@ -50,7 +50,7 @@ public class Show {
         JButton lableButton = new JButton("Change label");
         lableButton.addActionListener(new LabelListener());
 
-        JButton colorButton = new JButton("Change Circle");
+        JButton colorButton = new JButton("Change StartMoving");
         colorButton.addActionListener(new ColorListener());
 
         jLable = new JLabel("Label");

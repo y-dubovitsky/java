@@ -4,10 +4,8 @@ import javax.sound.midi.InvalidMidiDataException;
 import javax.sound.midi.MidiSystem;
 import javax.sound.midi.MidiUnavailableException;
 import javax.sound.midi.Sequencer;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.InputStream;
+import java.io.*;
+
 
 /**
  * This class play midi-files;
@@ -17,14 +15,13 @@ public class Player {
     /**
      * Path to midi-file;
      */
-    //TODO Не универсально! Нужно улучшить
-    private String path = "C:\\Users\\user\\IdeaProjects\\java\\other\\src\\main\\resources\\2079.mid";
+    private String path = "2079.mid";
 
     /**
      * Main method.
      * @param args
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
         Player player = new Player();
         player.playSound();
     }
@@ -32,7 +29,7 @@ public class Player {
     /**
      * This method play sound;
      */
-    public void playSound() {
+    public void playSound() throws Exception{
         try {
             Sequencer sequencer = MidiSystem.getSequencer();
             sequencer.setSequence(midiFromFile(path));
@@ -47,13 +44,8 @@ public class Player {
      * This method return IS from midi file;
      * @param path
      */
-    public InputStream midiFromFile(String path) {
-        InputStream i = null;
-        try {
-            i = new FileInputStream(path);
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        }
-        return i;
+    public InputStream midiFromFile(String path) throws Exception{
+        ClassLoader loader = this.getClass().getClassLoader();
+        return loader.getResourceAsStream(path);
     }
 }

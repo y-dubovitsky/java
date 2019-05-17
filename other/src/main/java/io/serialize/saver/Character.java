@@ -1,9 +1,9 @@
-package io.serialize;
+package io.serialize.saver;
 
 import java.io.Serializable;
 
 /**
- * This class describes a computer game character
+ * This class describes a computer saver character
  */
 public class Character implements Serializable {
 

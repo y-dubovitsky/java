@@ -1,4 +1,4 @@
-package io.serialize;
+package io.serialize.saver;
 
 import java.io.*;
 
@@ -47,4 +47,13 @@ public class Saver {
         System.out.println(human.name);
     }
 
+    public void stringToFile() {
+        try {
+            FileWriter fileWriter = new FileWriter("output.txt");
+            fileWriter.write("Hello");
+            fileWriter.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }

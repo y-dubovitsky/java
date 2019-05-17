@@ -1,4 +1,4 @@
-package io.serialize;
+package io.serialize.saver;
 
 /**
  * This is not Serializable class

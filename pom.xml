@@ -65,11 +65,12 @@
         <module>algorithms</module>
         <module>junit</module>
         <module>databases</module>
-        <module>head/java</module>
+        <module>head</module>
         <module>stream</module>
         <module>sweater</module>
         <module>servlet</module>
         <module>other</module>
         <module>manual</module>
+        <module>philosophy</module>
     </modules>
 </project>

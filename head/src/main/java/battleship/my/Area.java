@@ -1,7 +1,5 @@
 package battleship.my;
 
-import dot.DotCom;
-
 /**
  * This class describe battle area;
  */

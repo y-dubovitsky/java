@@ -1,4 +1,4 @@
-package second.streams.operations;
+package second.streams.operations.entity;
 
 public class Phone{
 

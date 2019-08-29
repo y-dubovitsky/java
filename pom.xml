@@ -72,5 +72,6 @@
         <module>other</module>
         <module>manual</module>
         <module>philosophy</module>
+        <module>professional</module>
     </modules>
 </project>

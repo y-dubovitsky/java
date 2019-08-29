@@ -1,5 +1,7 @@
 package second.streams.operations;
 
+import second.streams.operations.entity.Phone;
+
 import java.util.stream.Stream;
 
 public class FlatMapDemo {

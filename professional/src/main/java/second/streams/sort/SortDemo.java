@@ -1,6 +1,6 @@
 package second.streams.sort;
 
-import second.streams.operations.Phone;
+import second.streams.operations.entity.Phone;
 
 import java.util.stream.Stream;
 

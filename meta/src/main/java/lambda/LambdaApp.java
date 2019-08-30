@@ -1,4 +1,4 @@
-package first.lambda;
+package lambda;
 
 public class LambdaApp {
 

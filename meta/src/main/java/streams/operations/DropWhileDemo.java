@@ -1,4 +1,4 @@
-package second.streams.operations;
+package streams.operations;
 
 import java.io.FileInputStream;
 import java.util.Properties;

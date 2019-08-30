@@ -1,4 +1,4 @@
-package second.streams.operations;
+package streams.operations;
 
 import java.util.stream.Stream;
 

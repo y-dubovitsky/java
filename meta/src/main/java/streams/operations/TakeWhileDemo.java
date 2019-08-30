@@ -1,6 +1,5 @@
-package second.streams.operations;
+package streams.operations;
 
-import java.util.Comparator;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 

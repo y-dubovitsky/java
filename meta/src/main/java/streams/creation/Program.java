@@ -1,4 +1,4 @@
-package second.streams.creation;
+package streams.creation;
 
 import java.util.ArrayList;
 import java.util.Collections;

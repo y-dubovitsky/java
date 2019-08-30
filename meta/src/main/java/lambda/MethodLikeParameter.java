@@ -1,4 +1,4 @@
-package first.lambda;
+package lambda;
 
 /**
  * This class implements method from functional Interface

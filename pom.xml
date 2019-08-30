@@ -73,5 +73,6 @@
         <module>manual</module>
         <module>philosophy</module>
         <module>professional</module>
+        <module>meta</module>
     </modules>
 </project>

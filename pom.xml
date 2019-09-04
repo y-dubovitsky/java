@@ -74,5 +74,6 @@
         <module>philosophy</module>
         <module>professional</module>
         <module>meta</module>
+        <module>regex</module>
     </modules>
 </project>

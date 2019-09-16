@@ -1,4 +1,4 @@
-package first.collections.add;
+package first.collections.methods;
 
 import java.util.ArrayList;
 import java.util.List;

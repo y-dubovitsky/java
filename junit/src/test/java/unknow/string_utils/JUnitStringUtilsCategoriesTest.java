@@ -1,14 +1,14 @@
-package StringUtils;
+package unknow.string_utils;
 
+import org.junit.Assert;
 import org.junit.Test;
 import org.junit.experimental.categories.Category;
 
-
-public class JUnitOtherTest {
-
+public class JUnitStringUtilsCategoriesTest extends Assert
+{
     //...
 
-    //@Category(Unit.class)
+    @Category(Unit.class)
     @Test
     public void testIsEmpty() {
         //...
@@ -16,3 +16,4 @@ public class JUnitOtherTest {
     }
     //...
 }
+

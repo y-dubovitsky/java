@@ -1,4 +1,4 @@
-package StringUtils;
+package unknow.string_utils;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

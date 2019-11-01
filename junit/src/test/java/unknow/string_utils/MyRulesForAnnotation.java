@@ -1,4 +1,4 @@
-package StringUtils;
+package unknow.string_utils;
 
 import org.junit.*;
 import org.junit.rules.ExpectedException;

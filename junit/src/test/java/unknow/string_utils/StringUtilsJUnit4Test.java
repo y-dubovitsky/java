@@ -1,4 +1,4 @@
-package StringUtils;
+package unknow.string_utils;
 
 import junit.framework.Assert;
 import org.junit.*;

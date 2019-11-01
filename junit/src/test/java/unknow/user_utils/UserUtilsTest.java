@@ -1,4 +1,4 @@
-package UserUtils;
+package unknow.user_utils;
 
 import org.junit.experimental.categories.Categories;
 import org.junit.runner.RunWith;

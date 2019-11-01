@@ -15,7 +15,7 @@
     <!-- Объявлены профили -->
     <profiles>
         <profile>
-            <id>StringUtils</id>
+            <id>unknow.string_utils</id>
             <dependencies>
                 <dependency>
                     <groupId>junit</groupId>

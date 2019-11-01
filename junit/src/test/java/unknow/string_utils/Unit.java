@@ -1,4 +1,4 @@
-package StringUtils;
+package unknow.string_utils;
 
 /**
  * Группировка тестов в JUnit осуществляется с помощью, так называемых, категорий.

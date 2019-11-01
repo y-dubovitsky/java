@@ -1,4 +1,4 @@
-package UserUtils;
+package unknow.user_utils;
 
 import org.junit.Test;
 import org.junit.experimental.categories.Category;

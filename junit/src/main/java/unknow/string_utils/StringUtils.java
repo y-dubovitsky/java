@@ -1,4 +1,4 @@
-package StringUtils;
+package unknow.string_utils;
 
 /**
  * Класс для работы со строками.

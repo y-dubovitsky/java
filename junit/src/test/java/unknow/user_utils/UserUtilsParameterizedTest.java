@@ -1,4 +1,4 @@
-package UserUtils;
+package unknow.user_utils;
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -27,7 +27,7 @@ public class UserUtilsParameterizedTest {
     }
 
     /**
-     * @return - UserUtils.UserUtilsParameterizedTest.setName() must return an Iterable of arrays.
+     * @return - unknow.user_utils.UserUtilsParameterizedTest.setName() must return an Iterable of arrays.
      */
     @Parameterized.Parameters
     public static String[] setName() {

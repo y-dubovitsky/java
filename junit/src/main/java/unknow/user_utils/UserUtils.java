@@ -1,4 +1,4 @@
-package UserUtils;
+package unknow.user_utils;
 
 /**
  * Класс пользователей.

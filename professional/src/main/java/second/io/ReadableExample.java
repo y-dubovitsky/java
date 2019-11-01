@@ -1,9 +1,9 @@
 package second.io;
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.nio.CharBuffer;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * In this class we uses method from the Readable interface

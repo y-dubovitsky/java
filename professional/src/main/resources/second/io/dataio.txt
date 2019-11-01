@@ -1,1 +1,9 @@
-hello my friend!a
+"C:\Program Files\Java\jdk-11.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.2\lib\idea_rt.jar=54086:C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\user\IdeaProjects\java\professional\target\classes second.io.ReadableExample
+Exception in thread "main" java.lang.IllegalArgumentException: character to be escaped is missing
+	at java.base/java.util.regex.Matcher.appendExpandedReplacement(Matcher.java:1020)
+	at java.base/java.util.regex.Matcher.appendReplacement(Matcher.java:998)
+	at java.base/java.util.regex.Matcher.replaceAll(Matcher.java:1182)
+	at second.io.ReadableExample.changeLineSeparator(ReadableExample.java:34)
+	at second.io.ReadableExample.main(ReadableExample.java:14)
+
+Process finished with exit code 1

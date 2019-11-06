@@ -1,4 +1,4 @@
-package second.io;
+package second.io.save_object;
 
 import java.io.File;
 import java.io.PrintWriter;

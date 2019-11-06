@@ -1,4 +1,4 @@
-package second.io;
+package second.io.text;
 
 import java.io.File;
 import java.io.PrintWriter;

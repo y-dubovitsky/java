@@ -1,8 +1,8 @@
-package second.io;
+package second.io.binary;
 
 import java.io.*;
 
-public class DataIOExample {
+public class DataIoExample {
 
     private static final File FILE = new File("professional/src/main/resources/second/io/dataio.txt");
 
@@ -32,7 +32,7 @@ public class DataIOExample {
     public static void writeData() {
         try(DataOutputStream out = new DataOutputStream(new FileOutputStream(FILE, true))) {
             BufferedReader reader = new BufferedReader(
-                    new FileReader("professional/src/main/java/second/io/DataIOExample.java"));
+                    new FileReader("professional/src/main/java/second/io/DataIoExample.java"));
             for (int i = 0; i < 10; i++) out.writeBytes(getString(reader));
         } catch (Exception e) {
             e.printStackTrace();

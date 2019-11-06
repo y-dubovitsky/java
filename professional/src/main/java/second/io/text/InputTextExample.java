@@ -1,8 +1,7 @@
-package second.io;
+package second.io.text;
 
 import java.io.*;
 import java.nio.file.Files;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;

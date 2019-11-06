@@ -1,4 +1,4 @@
-package second.io;
+package second.io.interfaces;
 
 import java.io.FileWriter;
 import java.io.IOException;

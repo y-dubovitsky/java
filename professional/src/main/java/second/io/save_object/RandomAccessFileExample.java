@@ -1,4 +1,6 @@
-package second.io;
+package second.io.save_object;
+
+import second.io.save_object.Employee;
 
 import java.io.*;
 import java.util.Date;

@@ -1,9 +1,7 @@
-package second.io;
+package second.io.interfaces;
 
 import java.io.*;
 import java.nio.CharBuffer;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * In this class we uses method from the Readable interface

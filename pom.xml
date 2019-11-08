@@ -76,5 +76,6 @@
         <module>meta</module>
         <module>regex</module>
         <module>classes</module>
+        <module>udemy</module>
     </modules>
 </project>

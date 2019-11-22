@@ -67,15 +67,12 @@
         <module>databases</module>
         <module>head</module>
         <module>stream</module>
-        <module>sweater</module>
-        <module>servlet</module>
         <module>other</module>
         <module>manual</module>
         <module>philosophy</module>
         <module>professional</module>
         <module>meta</module>
         <module>regex</module>
-        <module>classes</module>
         <module>udemy</module>
     </modules>
 </project>

@@ -1,4 +1,4 @@
-package polymorphism.list;
+package list;
 
 /**
  * Simple List

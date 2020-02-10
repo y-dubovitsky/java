@@ -69,6 +69,6 @@
         <module>philosophy</module>
         <module>professional</module>
         <module>meta</module>
-        <module>from-simple-to-complex</module>
+        <module>complex</module>
     </modules>
 </project>

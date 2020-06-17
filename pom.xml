@@ -63,16 +63,12 @@
     </dependencies>
     <modules>
         <module>algorithms</module>
-        <module>junit</module>
         <module>databases</module>
         <module>head</module>
-        <module>stream</module>
-        <module>other</module>
         <module>manual</module>
         <module>philosophy</module>
         <module>professional</module>
         <module>meta</module>
-        <module>regex</module>
-        <module>udemy</module>
+        <module>complex</module>
     </modules>
 </project>

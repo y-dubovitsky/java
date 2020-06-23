@@ -70,5 +70,7 @@
         <module>professional</module>
         <module>meta</module>
         <module>complex</module>
+        <module>collection</module>
+        <module>advanced-java</module>
     </modules>
 </project>

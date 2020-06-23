@@ -1,4 +1,4 @@
-package collections.arrays;
+package collections.array;
 
 import java.security.SecureRandom;
 import java.util.*;
@@ -8,7 +8,7 @@ import java.util.*;
  *  arr[1][1], arr[1][2], arr[1][3]
  *  arr[2][0], arr[2][1], arr[2][2]
  */
-public class MultidimensionalArray {
+class MultidimensionalArray {
 
     private SecureRandom random = new SecureRandom();
     private String[] strArray = {"a", "b", "123", "f5", "Маким"};
@@ -58,7 +58,7 @@ public class MultidimensionalArray {
     private void bonesDropEmulation() {
         int[] side = new int[7];
         for (int i = 1; i < 1000; i++) {
-            ++side[random.nextInt(6) + 1];
+            ++side[random.nextInt(6) + 1]; //?
         }
         for (int i = 1; i < side.length; i++) {
             System.out.println("The bone has throws " + side[i] + " times");

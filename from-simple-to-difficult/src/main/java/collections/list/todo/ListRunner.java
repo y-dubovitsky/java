@@ -1,4 +1,4 @@
-package collections.list;
+package collections.list.todo;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -45,7 +45,7 @@ public class ListRunner {
                 case 0: {
                     System.out.println("addTask");
                     scanner.nextLine();
-                    String task = scanner.nextLine();
+                    String task = scanner.nextLine(); //! scanner.nextLine() - повторяется
                     toDoList.addTask(task);
                     break;
                 }

@@ -1,11 +1,11 @@
-package collections.arrays;
+package collections.array;
 
 import java.util.Scanner;
 
 /**
  * This class shows how we can create an array of a primitive type;
  */
-public class ArrayPrimitive {
+class ArrayPrimitive {
 
     public static void main(String[] args) {
         ArrayPrimitive pr = new ArrayPrimitive();
@@ -14,8 +14,6 @@ public class ArrayPrimitive {
             System.out.println("i" + i + " = " + result[i]);
         }
     }
-
-
 
     /**
      * This method creates an array with user size and fills it with user values;

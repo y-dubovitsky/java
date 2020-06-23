@@ -1,11 +1,11 @@
-package collections.arrays;
+package collections.array;
 
 import java.util.Comparator;
 
 /**
  * This class demonstrates the use of bubble sorting.
  */
-public class BubbleSortArray {
+class BubbleSortArray {
 
     private static Integer[] array = {5,6,1,9,12,44,-1,0};
     private static String[] strArray = {"Миша", "a", "354", "@", "bc", "wr", "Hello", "Алексей"};

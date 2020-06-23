@@ -1,8 +1,8 @@
-package collections.list;
+package collections.list.converter;
 
 import java.util.*;
 
-public class ArrayCollectionConverter {
+public class CollectionConverter {
 
     private static Integer[] array = {1,2,3,4,5,6,7,8,9,0};
     private static List<Integer> list = new ArrayList<>(Arrays.asList(1,2,3,4,4,5,6,7,8,8,9));

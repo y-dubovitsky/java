@@ -1,4 +1,4 @@
-package collections.list;
+package collections.list.todo;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

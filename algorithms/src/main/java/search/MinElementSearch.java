@@ -3,12 +3,12 @@ package search;
 /**
  * Поиск минимального элемента в массиве.
  */
-class MinElement { //TODO Можно улучшить, сделать дженерик и т.п.
+class MinElementSearch { //TODO Можно улучшить, сделать дженерик и т.п.
 
     private static final int[] INPUT_ARRAY = {1,5,-567, 34, 545, 654, 023, 234};
 
     public static void main(String[] args) {
-        new MinElement().minElementSearch(INPUT_ARRAY);
+        new MinElementSearch().minElementSearch(INPUT_ARRAY);
     }
 
     private int minElementSearch(int[] array) {

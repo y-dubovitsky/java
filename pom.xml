@@ -72,5 +72,6 @@
         <module>complex</module>
         <module>collection</module>
         <module>advanced-java</module>
+        <module>george</module>
     </modules>
 </project>

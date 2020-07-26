@@ -1,4 +1,4 @@
-package collections.collections_class;
+package collections.collections;
 
 public enum Age {
 

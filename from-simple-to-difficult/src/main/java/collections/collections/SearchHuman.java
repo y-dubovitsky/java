@@ -1,4 +1,4 @@
-package collections.collections_class;
+package collections.collections;
 
 import java.security.SecureRandom;
 import java.util.ArrayList;

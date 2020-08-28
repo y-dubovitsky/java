@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>java</groupId>
-    <artifactId>basic</artifactId>
+    <groupId>space.dubovitsky</groupId>
+    <artifactId>java</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <!-- Указана версия Java 11 -->
@@ -45,33 +45,14 @@
             </plugin>
         </plugins>
     </build>
-    <!-- Зависимости, все они наследуются потомками -->
-    <dependencies>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.12</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>5.3.1</version>
-            <scope>test</scope>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.jacoco/jacoco-maven-plugin -->
-    </dependencies>
     <modules>
         <module>algorithms</module>
-        <module>databases</module>
+        <module>from-simple-to-difficult</module>
         <module>head</module>
         <module>manual</module>
         <module>philosophy</module>
         <module>professional</module>
         <module>meta</module>
-        <module>complex</module>
-        <module>collection</module>
-        <module>advanced-java</module>
         <module>george</module>
         <module>space.dubovitsky.tproger</module>
         <module>tproger</module>
